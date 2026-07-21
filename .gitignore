@@ -1,0 +1,20 @@
+# Roblox & Studio Locks
+*.rbxlx.lock
+*.rbxl.lock
+
+# Temporary and Log files
+*.tmp
+*.log
+logs/
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+.obsidian/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
